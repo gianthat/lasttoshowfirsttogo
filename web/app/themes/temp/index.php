@@ -76,6 +76,7 @@
 			<div class="container">
 				<h2>Help us make it.</h1>
 				<p>Become a producer of our upcoming album and get swag.</p>
+				<p>Paypal account: ralbritton@rrmusiclabs.com
 				<div class="row">
 					<div class="col-sm-6 col-sm-offset-3 text-left">
 						<ul>
