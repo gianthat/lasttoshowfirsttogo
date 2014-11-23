@@ -47,7 +47,7 @@
 			<div class="page">
 				<div class="wrapper">
 					<div class="container">
-						<img src="app/themes/temp/img/logo/ltsftg-logo.png" alt="Last to Show First to Go">
+						<img class="logo-image" src="app/themes/temp/img/logo/ltsftg-logo.png" alt="Last to Show First to Go">
 						<h2>New album coming soon.</h1>
 						<div class="row">
 							<div id="countdown"></div>
