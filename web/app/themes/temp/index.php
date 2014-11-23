@@ -104,8 +104,8 @@
 
 						<footer class="text-center">
 							<div class="social">
-								<a href="#" class="btn btn-theme"><i class="fa fa-facebook"></i></a>
-								<a href="#" class="btn btn-theme"><i class="fa fa-twitter"></i></a>
+								<a href="https://www.facebook.com/lasttoshowfirsttogo" class="btn btn-theme"><i class="fa fa-facebook"></i></a>
+								<a href="https://twitter.com/ltsftg" class="btn btn-theme"><i class="fa fa-twitter"></i></a>
 							</div>
 						</footer>
 					</div>
