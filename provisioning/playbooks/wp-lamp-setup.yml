@@ -111,8 +111,8 @@
   - name: Update Vagrant hosts file
     shell: cp /etc/hosts /etc/hosts.backup && cp /var/www/web/remoteetchosts /etc/hosts
 
-  - name: Source databases
-    shell: mysql -u wp_db_u -ppassword {{ application_name }}_dev < /var/www/web/mysqldumps/output.sql && touch /var/www/web/provision-checks/source_database.txt
-    args:
-      creates: /var/www/web/provision-checks/source_database.txt
+  #- name: Source databases
+  #  shell: mysql -u wp_db_u -ppassword {{ application_name }}_dev < /var/www/web/mysqldumps/output.sql && touch /var/www/web/provision-checks/source_database.txt
+  #  args:
+  #    creates: /var/www/web/provision-checks/source_database.txt
     #when: source_database == "y"

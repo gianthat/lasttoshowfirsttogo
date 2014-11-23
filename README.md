@@ -33,7 +33,7 @@ Setting this project up for the first time:
 9. Install packages: `composer install`
 10. Add the Vagrant box: `vagrant box add efeqdev/wp-ubuntu-14.04`
 11. Update /provisioning/hosts file with the correct application_name variable
-12. Start Vagrant and provision the box: `vagrant up`. When asked if you want to source the database, answer 'y' if you did Step 7.
+12. Start Vagrant and provision the box: `vagrant up`.
 13. Check out http://yourprojectname.dev to confirm the site is up.
 14. Log in to PHPMyAdmin at http://192.168.33.10/phpmyadmin (Username: wp_db_u Password: password)
 
