@@ -53,7 +53,7 @@
 							<div id="countdown"></div>
 						</div>
 						<!-- Subscription form -->
-						<form class="form-inline signup" action="php/signupForm.php" role="form" id="signupForm">
+						<form class="form-inline signup" action="app/themes/temp/php/signupForm.php" role="form" id="signupForm">
 							<div class="form-group">
 								<input type="email" name="email" class="form-control" placeholder="Email address">
 							</div>
